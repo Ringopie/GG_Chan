@@ -8,6 +8,8 @@ I love her,so I make it.
 
 It looks like spaghetti code because I'm a begineer.
 
+This is my first brainfxxx code.
+
 ## Request
 
 If you'd like, send a pull request and I will fix it later.
